@@ -1,0 +1,2 @@
+mon_host = 'icinga2.domain.com'
+mon_port = 6558
